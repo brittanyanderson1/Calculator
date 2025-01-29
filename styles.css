@@ -36,3 +36,19 @@ button {
     border-radius: 25px;
     margin: 4px;
 }
+
+button:hover {
+    background-color: rgb(111,110,100);
+}
+
+button:active {
+    background-color: rgb(232,232,232);
+}
+
+#equals {
+    background-color: rgb(218,2,2);
+}
+
+#equals:hover {
+    background-color: rgb(198,1,1);
+}
