@@ -52,3 +52,13 @@ button:active {
 #equals:hover {
     background-color: rgb(198,1,1);
 }
+
+#clear {
+    width: 100%;
+    background-color: rgb(252,226,27);
+    font-size: 30px;
+}
+
+#clear:hover {
+    background-color: rgb(232,192,18);
+}
